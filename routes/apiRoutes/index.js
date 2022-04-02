@@ -1,7 +1,8 @@
 const router = require("express").Router();
 const { createNewNote, deleteById, validateNote } = require("../../lib/notes");
 let { notes } = require("../../data/notes");
-const uniqid = require("uniqid");
+// Check this line vs. uuid?
+// const uniqid = require("uniqid");
 
 // note that getting all notes does not call notes.js file for further processing
 router.get("/notes", (req, res) => {
