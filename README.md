@@ -17,6 +17,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed eros a i
 [![npm Node.js](https://img.shields.io/badge/npm-Node.js-green.svg)](https://nodejs.org/en/)
 [![npm Express.js](https://img.shields.io/badge/npm-Express.js-lightgrey.svg)](https://expressjs.com/)
 [![Language](https://img.shields.io/badge/JavaScript-yellow.svg)](https://developer.oracle.com/javascript/)
+[![Language](https://img.shields.io/badge/HTML-orange.svg)](https://html.spec.whatwg.org/multipage/)
+[![Language](https://img.shields.io/badge/CSS-lightblue.svg)](https://www.w3.org/TR/CSS/#css)
+
 
 
 ## Challenges Faced
