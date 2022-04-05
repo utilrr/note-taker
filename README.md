@@ -4,12 +4,16 @@
 # Title 
 
 ## Description of Project
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed eros a ipsum lobortis mattis. Aliquam a eleifend massa. In tincidunt elit sed tellus tempor, dignissim feugiat urna ultricies. Aliquam eget justo dictum sapien luctus mattis. Ut vulputate placerat accumsan. Quisque auctor felis eu metus placerat elementum. Fusce accumsan felis felis, dignissim consectetur felis sagittis quis.
+To allow business owners to write and save notes to help them organize their thoughts and keep track of tasks they need to complete.
 
 ## Aims/Goals
-1.
-2.
-3.
+1. When I open the Note Taker I am presented with a landing page with a link to a notes page.
+2. When I click on the link to the notes page I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column.
+3. When I enter a new note title and the note’s text a Save icon (floppy disk?) appears in the navigation at the top of the page.
+4. When I click on the Save icon the new note I entered is saved and appears in the left-hand column with the other existing notes.
+5. When I click on an existing note in the list in the left-hand column that note appears in the right-hand column.
+6. When I click on the Write icon (+) in the navigation at the top of the page I am presented with empty fields to enter a new note title and the note’s text in the right-hand column.
+
 
 ## Technologies Used
 
