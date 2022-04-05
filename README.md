@@ -13,7 +13,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sed eros a i
 
 ## Technologies Used
 
-
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![npm Node.js](https://img.shields.io/badge/npm-Node.js-green.svg)](https://nodejs.org/en/)
+[![npm Express.js](https://img.shields.io/badge/npm-Express.js-lightgrey.svg)](https://expressjs.com/)
+[![Language](https://img.shields.io/badge/JavaScript-yellow.svg)](https://developer.oracle.com/javascript/)
 
 
 ## Challenges Faced
